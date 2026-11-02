@@ -1,5 +1,5 @@
 # Content
-Topic: **X**
+Topic: **Visual arts**
 
 ## Overview/Introduction/Context
 * Text
