@@ -56,6 +56,8 @@ Topic: **Visual arts**
   * very easy to navigate with buttons on the side for specific commands (like switching to eraser or undo, right click, etc.)
   * can go up to selling for a few hundred dollars
   * might be a bit of a learning curve if you've never had to use two screens for digital art before
+  * needs a stylus
+    * a pen device that works on digital devices and drawing tablets
   * https://www.wacom.com/en-us
 ## Part B: possible future technology
 * Idea
