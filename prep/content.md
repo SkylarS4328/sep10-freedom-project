@@ -48,6 +48,7 @@ Topic: **Visual arts**
   * easy to use
   * some are passive pens that don't need charging (usually because they are directly digitally connected to one device)
   * others need charging because of the specific hardware inside
+  * https://digital-photography-school.com/why-is-monitor-calibration-important-and-how-to-do-it/
 * Wacom
   * Wacom is a drawing tablet used for digital art
   * connects to your computer
@@ -55,6 +56,7 @@ Topic: **Visual arts**
   * very easy to navigate with buttons on the side for specific commands (like switching to eraser or undo, right click, etc.)
   * can go up to selling for a few hundred dollars
   * might be a bit of a learning curve if you've never had to use two screens for digital art before
+  * https://www.wacom.com/en-us
 ## Part B: possible future technology
 * Idea
   * Detail
