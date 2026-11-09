@@ -32,14 +32,14 @@ Topic: **Visual arts**
   * https://www.blender.org/
   * [image of blender interface](https://share.google/8DIjSI1aZg3hdeEQd) 
 ##### Hardware
-* Monitor Calibrator
+* **Monitor Calibrator**
   * a physical device placed on a computer screen
   * used to adjust and keep colors and images from warping after editing
   * can be a little pricey as it can sell for a few hundred dollars
   * doesn't really fix having poorer quality equipments
   * good for wanting more clear and perfect images
   * [image text](image URL)
-*Stylus pens
+* **Stylus pens**
   * a pen that works on digital devices (like phones, tablets, and specific drawing tablets)
   * easy for drawing more efficiently the way you would with a normal pencil or pen
   * you can replace or switch out the nibs when it gets worn down over time
@@ -49,7 +49,7 @@ Topic: **Visual arts**
   * some are passive pens that don't need charging (usually because they are directly digitally connected to one device)
   * others need charging because of the specific hardware inside
   * https://digital-photography-school.com/why-is-monitor-calibration-important-and-how-to-do-it/
-* Wacom
+* **Wacom**
   * Wacom is a drawing tablet used for digital art
   * connects to your computer
   * is a single solid color, and acts as the place you draw on with your stylus pen, whilst the art appears separately on your computer screen
@@ -57,7 +57,6 @@ Topic: **Visual arts**
   * can go up to selling for a few hundred dollars
   * might be a bit of a learning curve if you've never had to use two screens for digital art before
   * needs a stylus
-    * a pen device that works on digital devices and drawing tablets
   * https://www.wacom.com/en-us
 ## Part B: possible future technology
 * Idea
