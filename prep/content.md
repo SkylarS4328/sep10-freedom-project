@@ -7,7 +7,7 @@ Topic: **Visual arts**
 
 ## Part A: existing technology
 
-### organization - accessibility (most to least)
+### organization - accessibility (most to least [mostly dependant on price])
 1. **Krita** - software
   * It helps people who want a free digital art program
   * easy to use on a computer/PC
