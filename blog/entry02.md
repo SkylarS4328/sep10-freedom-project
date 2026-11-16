@@ -1,7 +1,7 @@
-# Entry 2
-##### X/X/XX
+# Entry 2 - Researching Topic (Visual Arts)
+##### 11/16/26
 
-Text
+text
 
 [Previous](entry01.md) | [Next](entry03.md)
 
